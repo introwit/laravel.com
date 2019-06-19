@@ -20,6 +20,7 @@
 		<li><a href="https://laracon.eu">Laracon EU</a></li>
 		<li><a href="http://laracon.us">Laracon US</a></li>
 		<li><a href="https://laracon.net">Laracon Online</a></li>
+        <li><a href="https://laravelevents.com">Laravel Meetups</a></li>
 
 		<li class="divider"></li>
 
